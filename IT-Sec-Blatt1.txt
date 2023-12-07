@@ -1,7 +1,8 @@
+IT-Security: Marlon Dittes, Alavaro Garmendia, Raeesa Yousaf
 
+Aufgabe 2:
 
-
-IT-Security
+ITSEC{mopDeRbQDQRrUKvFamjZyjUhDv7OHkdz5CR5pweBun0=}
 
 Aufgabe 3:
 
@@ -12,7 +13,9 @@ Aufgabe 4:
 
 ' OR '1'='1 as E-Mail and Password
 
-ITSEC{5b50126583452dd7d55a3458883ee614150be22a8f11482ce396a5b64c322df6}
+Dittes: 
+Garmendia: ITSEC{5b50126583452dd7d55a3458883ee614150be22a8f11482ce396a5b64c322df6}
+Yousaf: ITSEC{ff7e7054190a2cfabd8967967a2af286a53fcbc98d8e4219e6dcbf0cc19fc7fd}
 
 emusk24	25000
 
